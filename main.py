@@ -40,10 +40,3 @@ def selectUser(name,connection):
 if __name__ == "__main__":
     connection = connetDataBase()
     selectUser("Will Smith",connection)
-       
-        
-        
-        
-    
-
-

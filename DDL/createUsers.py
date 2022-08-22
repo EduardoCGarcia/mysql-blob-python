@@ -9,8 +9,3 @@ def ddlCreateUsersTable(connection):
         print("Tabla creada correctamente!!!")
     except connector.Error as error:
         print(format(error))
-        
-    
-    
-    
-    
